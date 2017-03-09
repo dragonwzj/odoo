@@ -50,10 +50,10 @@ To fetch odoo merge pull requests refs use this command:
 
 Odoo 二次开发系列教程
 ------------------
-<a href="http://www.cnblogs.com/kfx2007/category/911305.html">列表</a>
-<a href="http://www.cnblogs.com/kfx2007/p/4405589.html">Odoo 二次开发教程(一)-Odoo 的安装</a>,
-<a href="http://www.cnblogs.com/kfx2007/p/6078726.html">Odoo 二次开发教程(二)-模块的基础构建</a>,
-<a href="http://www.cnblogs.com/kfx2007/p/6078815.html">Odoo 二次开发教程(三)-第一个Model及Form、Tree视图</a>,
-<a href="http://www.cnblogs.com/kfx2007/p/6085578.html">Odoo 二次开发教程(四)-只读、唯一性验证和ORM方法介绍</a>,
-<a href="http://www.cnblogs.com/kfx2007/p/6093994.html">Odoo 二次开发教程(五)-新API的介绍与应用</a>
-<a href="http://www.cnblogs.com/kfx2007/p/6078726.html"></a>,
+<a href="http://www.cnblogs.com/kfx2007/category/911305.html">列表</a><br/>
+<a href="http://www.cnblogs.com/kfx2007/p/4405589.html">Odoo 二次开发教程(一)-Odoo 的安装</a>,<br/>
+<a href="http://www.cnblogs.com/kfx2007/p/6078726.html">Odoo 二次开发教程(二)-模块的基础构建</a>,<br/>
+<a href="http://www.cnblogs.com/kfx2007/p/6078815.html">Odoo 二次开发教程(三)-第一个Model及Form、Tree视图</a>,<br/>
+<a href="http://www.cnblogs.com/kfx2007/p/6085578.html">Odoo 二次开发教程(四)-只读、唯一性验证和ORM方法介绍</a>,<br/>
+<a href="http://www.cnblogs.com/kfx2007/p/6093994.html">Odoo 二次开发教程(五)-新API的介绍与应用</a>,<br/>
+<a href="http://www.cnblogs.com/kfx2007/p/6078726.html"></a>,<br/>
